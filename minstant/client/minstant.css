@@ -1,0 +1,16 @@
+/* CSS declarations go here */
+
+.user_avatar{
+	min-height:100px;
+	text-align: center;
+
+}
+.avatar_img{
+	height:75px;
+}
+
+.comment_avatar{
+	max-height: 25px ;
+	padding-top: 5px ;
+	padding-bottom: 5px ;	
+}
